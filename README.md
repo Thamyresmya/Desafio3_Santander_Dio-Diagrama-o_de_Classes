@@ -3,20 +3,14 @@
 | -------------  |--------------------------------|
 | Nome        | **POO e modelagem UML**  
 | Tecnologias | Java, POO, modelagem UML                
-| URL         | https://github.com/Thamyresmya
+| URL         | https://github.com/Thamyresmya/Desafio3_Santander_Dio-Diagramacao_de_Classes
 
 
-![](geral/Capa.png)
+![](geral/Capa.jpg)
 
 
 # Desafio: Orientação a Objetos e UML: Diagramação de Classes do iPhone
 
-
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
-  <a href="#-conteudo">Conteúdo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
-  <a href="#-tecnica">Técnicas</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
 
 ## 🚀 Tecnologias
 
@@ -43,25 +37,9 @@ Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma
   - Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
 
 
-## 📁 Acesso ao projeto
-É possível acessar o código através deste [Link](https://github.com/Thamyresmya).
-
-Neste repositório você tem acesso a todo o material desenvolvido.
-
-
-## ✔️ Técnicas e tecnologias utilizadas
-
-* `JAVA`: A linguagem de programação Java é objetivada principalmente na orientação a objeto, independência de plataforma, recursos de rede, carga dinâmica de código e segurança, além disso, é uma linguagem copilada.
-
-## 📸 📽️ Funcionamento
-
-Projeto funcionando<br>
-<img width="100%" height="450" src="./geral/Controle-de-fluxo.gif"></img>
-
-<br>
-
-
-
+## ✨ UML
+UML: Diagramação de Classes do iPhone
+![UML: Diagramação de Classes do iPhone](geral/UML_Iphone.drawio.png)
 
 
 ## 🔗 Me siga nas redes sociais:
